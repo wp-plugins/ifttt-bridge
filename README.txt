@@ -49,7 +49,7 @@ IFTTT or “If This Then That” is a service that enables users to connect diff
 3. Install the IFTTT Instagram Gallery or any other IFTTT plugin that fits your purpose. If you are a developer, you might even want to develop a plugin yourself.
 4. Check out the logging and the test request form in the option panel. This shoud help you if you are using this plugin the first time.
 
-If you need help, don’t hesitate to contact me!
+If you need help, don’t hesitate to contact me! In addition this [German blog article](http://www.bjoerne.com/instagram-bilder-mit-ifttt-den-eigenen-wordpress-blog-einbinden/) may help you.
 
 If you like this plugin, please rate it.
 
