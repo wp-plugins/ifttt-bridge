@@ -39,7 +39,7 @@ If you have developed a plugin or plan to do so, feel free to contact me! I will
 IFTTT or “If This Then That” is a service that enables users to connect different web applications (e.g., Facebook, Evernote, Weather, Dropbox, etc.) together through simple conditional statements known as “Recipes”. It sounds very technical but is actually really easy. Here are some typical examples of what IFTTT can do:
 
 * If you post a new photo on Instagram, it will automatically be posted on your Facebook wall.
-* When a new item on Ebay comes up that matches your search certain criteria, the results will be sent to you via email.
+* When a new item on Ebay comes up that matches your search criteria, the results will be sent to you via email.
 * Every time you are tagged in a photo on Facebook, it will be sent to Dropbox.
 
 *What do I have to do to use this plugin?*
@@ -47,7 +47,7 @@ IFTTT or “If This Then That” is a service that enables users to connect diff
 1. Install this plugin (installation instructions can be found under the “Installations” tab)
 2. Register at www.ifttt.com
 3. Install the IFTTT Instagram Gallery or any other IFTTT plugin that fits your purpose. If you are a developer, you might even want to develop a plugin yourself.
-4. Check out the logging and the test request form in the option panel. This shoud help you if you are using this plugin the first time.
+4. Check out the logging and the test request form in the option panel. This shoud help you if you are using this plugin for the first time.
 
 If you need help, don’t hesitate to contact me! In addition this [German blog article](http://www.bjoerne.com/instagram-bilder-mit-ifttt-den-eigenen-wordpress-blog-einbinden/) may help you.
 
