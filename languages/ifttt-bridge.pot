@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ifttt-bridge 1.0.0\n"
+"Project-Id-Version: ifttt-bridge 1.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-11 13:55+0700\n"
+"POT-Creation-Date: 2014-09-08 23:44+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,8 +44,8 @@ msgstr ""
 #: src/admin/views/admin.php:21
 msgid ""
 "Logging is recommended when you setup a new process based on the IFTTT "
-"WordPress Bridge. In the field below you can see helpful information about "
-"how the IFTTT request is processed."
+"Bridge for WordPress. In the field below you can see helpful information "
+"about how the IFTTT request is processed."
 msgstr ""
 
 #: src/admin/views/admin.php:30
@@ -113,8 +113,7 @@ msgstr ""
 #: src/admin/views/admin.php:102
 msgctxt "Test request form description"
 msgid ""
-"Comma-separated list. The tag 'ifttt_bridge' will be used "
-"automatically."
+"Comma-separated list. The tag 'ifttt_bridge' will be used automatically."
 msgstr ""
 
 #: src/admin/views/admin.php:106

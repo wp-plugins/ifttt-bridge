@@ -39,7 +39,7 @@ If you have developed a plugin or plan to do so, feel free to contact me! I will
 IFTTT or “If This Then That” is a service that enables users to connect different web applications (e.g., Facebook, Evernote, Weather, Dropbox, etc.) together through simple conditional statements known as “Recipes”. It sounds very technical but is actually really easy. Here are some typical examples of what IFTTT can do:
 
 * If you post a new photo on Instagram, it will automatically be posted on your Facebook wall.
-* When a new item on Ebay comes up that matches your search criteria, the results will be sent to you via email.
+* When a new item on eBay comes up that matches your search criteria, the results will be sent to you via email.
 * Every time you are tagged in a photo on Facebook, it will be sent to Dropbox.
 
 *What do I have to do to use this plugin?*
@@ -86,3 +86,8 @@ e.g.
 1. Configure IFTTT to use this plugin. Don't forget the 'ifttt_bridge' tag
 2. Send a test request when you are using this plugin the first time
 3. Use the logging to track how the IFTTT request is processed or to find (configuration) errors
+
+== Changelog ==
+
+= 1.0.1 =
+* Bugfix: Logging didn't work anymore after it had been emptied
