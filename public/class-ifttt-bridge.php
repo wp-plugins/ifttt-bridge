@@ -28,7 +28,7 @@ class Ifttt_Bridge {
 	 *
 	 * @var     string
 	 */
-	const VERSION = '1.0.1';
+	const VERSION = '1.0.2';
 
 	/**
 	 * Log levels.
@@ -170,7 +170,7 @@ class Ifttt_Bridge {
 			$data =& $HTTP_RAW_POST_DATA;
 		}
 		if ( $this->log_level_enabled( 'debug' ) ) {
-			$this->log( 'debug', "Received request:\n" . htmlspecialchars( $data ) );
+			$this->log( 'debug', "Received request:\n" . $data );
 		}
 		$message = new IXR_Message( $data );
 		$message->parse();

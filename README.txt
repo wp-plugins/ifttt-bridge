@@ -91,3 +91,6 @@ e.g.
 
 = 1.0.1 =
 * Bugfix: Logging didn't work anymore after it had been emptied
+
+= 1.0.2 =
+* Bugfix: htmlspecialchars is not applied to raw request anymore but to all displayed log entries
